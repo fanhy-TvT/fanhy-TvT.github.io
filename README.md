@@ -2,10 +2,6 @@
 layout: default
 ---
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/fanhyTvT" width="150" style="border-radius:50%;" alt="头像">
-</p>
-
 <h1 align="center">Fan Haoyuan</h1>
 <p align="center"><em>A master's student at USTC.</em></p>
 
